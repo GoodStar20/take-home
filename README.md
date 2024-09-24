@@ -11,5 +11,6 @@ $ git clone https://github.com/GoodStar20/take-home.git
 ## Run Challenge
 
 ```
+cd take-home
 ruby challenge.rb 
 ```
